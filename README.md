@@ -1,2 +1,2 @@
 # visCrypt
-visual cryptography encoder -decoder
+visual cryptography encoder-decoder
